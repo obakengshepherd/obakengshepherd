@@ -1,2 +1,1 @@
-## Hi there 👋
-## I'm Obakeng Shepherd Tsaagane
+## Hi, I'm Obakeng Shepherd Tsaagane
