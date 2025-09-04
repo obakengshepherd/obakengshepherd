@@ -1,6 +1,6 @@
 ## Hi, I'm Tsaagane Obakeng Shepherd
 
-I'm a final year IT student with a strong focus on Full-Stack Development and Backend Engineering. To demonstrate both depth and breadth across different ecosystems, I’m currently working on three Capstone Projects — one in each of my core programming languages:
+I'm a final year IT student with a strong focus on Full-Stack Development and Backend Engineering. To demonstrate both depth and breadth across different ecosystems, I’m currently working on three Capstone Projects, one in each of my core programming languages:
 
   * Python: Full-Stack Django Application with REST API and AI integration.
   * C#: Enterprise-Grade ASP.NET Core MVC + Web API with authentication, payment, and cloud deployment.
