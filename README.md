@@ -1,15 +1,19 @@
-## Hi, I'm Tsaagane Obakeng Shepherd
+# Hi, I'm Tsaagane Obakeng Shepherd
 
-I'm a final year IT student with a strong focus on Full-Stack Development and Backend Engineering. To demonstrate both depth and breadth across different ecosystems, I’m currently working on three Capstone Projects, one in each of my core programming languages:
+I'm a final-year IT student with a strong focus on Backend Engineering and Full-Stack Development. My work is centered around building secure, scalable, and cloud-native applications that reflect modern industry practices.
 
-  * Python: Full-Stack Django Application with REST API and AI integration.
-  * C#: Enterprise-Grade ASP.NET Core MVC + Web API with authentication, payment, and cloud deployment.
-  * JavaScript: Full MERN/Node.js + TypeScript Real-Time Collaboration Platform with GraphQL and WebSockets.
+I’m currently developing a Super Capstone Project that brings together my skills across:
 
-These projects are designed to replicate real-world, production-grade applications, showcasing skills in modern frameworks, secure architectures, and scalable design. They represent the culmination of my learning journey and serve as proof of concepts for recruiters and collaborators alike.
+C# (ASP.NET Core MVC & Web API): Enterprise-grade backend services with authentication, EF Core, and payment integration.
 
-I’m actively documenting and building not just applications but also a consistent track record of growth and delivery.
+JavaScript / TypeScript (Node.js): Real-time collaboration features with GraphQL, WebSockets, and async processing.
 
-Feel free to explore my repositories, follow the progress of these capstones, or reach out for collaboration, networking, or career opportunities.
+Microsoft Azure: Cloud-native deployment, CI/CD pipelines, serverless functions, and database services.
+
+This project demonstrates end-to-end expertise in secure architectures, cloud solutions, and modern backend frameworks, designed to mirror real-world, production-grade applications.
+
+I’m actively documenting the process, not just to showcase working software but also to highlight my journey of consistent growth, problem-solving, and delivery.
+
+Feel free to explore my repositories, follow the project’s progress, or reach out for collaboration, networking, or career opportunities.
 
 🙂
