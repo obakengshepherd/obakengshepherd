@@ -1,6 +1,6 @@
 # Hi, I'm Tsaagane Obakeng Shepherd
 
-I'm a final-year IT student with a strong focus on Backend Engineering and Full-Stack Development. My work is centered around building secure, scalable, and cloud-native applications that reflect modern industry practices.
+I'm a final-year IT student with a strong focus on ##Backend Engineering and Full-Stack Development##. My work is centered around building secure, scalable, and cloud-native applications that reflect modern industry practices.
 
 I’m currently developing a Super Capstone Project that brings together my skills across:
 
