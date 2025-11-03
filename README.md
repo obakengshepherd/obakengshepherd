@@ -1,5 +1,5 @@
 # Hi, I'm Tsaagane Obakeng Shepherd 👋
-**Final-Year IT Student | Junior Full-Stack .NET + React Developer | Azure-Ready Cloud Native**
+**Final-Year IT Student | Junior Full-Stack .NET + React Developer**
 Pretoria, South Africa · Open to Junior Roles · 067 630 8354 · obakengtsaagane@gmail.com
 ---
 ## 🚀 **InsurancePlatform – Full-Stack Insurance SaaS (Personal Project)**
