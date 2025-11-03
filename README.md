@@ -1,31 +1,34 @@
 # Hi, I'm Tsaagane Obakeng Shepherd 👋
-
-**Final-Year IT Student | Junior Full-Stack .NET + React Developer | Azure Cloud Native**  
-Pretoria, South Africa · Open to Junior Roles
-
+**Final-Year IT Student | Junior Full-Stack .NET + React Developer | Azure-Ready Cloud Native**
+Pretoria, South Africa · Open to Junior Roles · 067 630 8354 · obakengtsaagane@gmail.com
 ---
-
-## 🚀 **MediPay – Health-Finance Dashboard (Capstone)**
-**Live Demo**: [medipay.azurestaticapps.net](https://medipay.azurestaticapps.net)  
-**GitHub**: [github.com/you/medipay](https://github.com/you/medipay)
-
-> A **real-time PWA** combining **health tracking** + **medical expense management** with **secure payments** and **live alerts**.
+## 🚀 **InsurancePlatform – Full-Stack Insurance SaaS (Personal Project)**
+**Live Demo**: [insuranceplatform.vercel.app](https://insuranceplatform.vercel.app) *(Frontend – Vercel)*  
+**Backend Demo**: [insuranceplatform.onrender.com/swagger](https://insuranceplatform.onrender.com/swagger) *(API – Render)*  
+**GitHub**: [github.com/obakengshepherd/InsurancePlatform](https://github.com/obakengshepherd/InsurancePlatform)
+> A **modular, role-based insurance management system** with **JWT auth**, **real-time analytics**, **file uploads**, **fraud rules**, and **Azure migration-ready** architecture. Built end-to-end as a scalable SaaS MVP.
 
 **Tech Stack**:
-- **Backend**: C#/.NET 8, ASP.NET Core, **Clean Architecture**, **CQRS + MediatR**, **EF Core**, **Azure Cosmos DB**
-- **Frontend**: React 18 + TypeScript, **React Query**, **Tailwind CSS**, **Zod**, **Vite**
-- **Real-Time**: **Azure SignalR Service**
-- **Auth**: **JWT + Azure AD B2C** (Google/Email)
-- **Payments**: **Stripe** (test mode)
-- **Cloud**: **Azure App Service**, **Static Web Apps**, **Functions**, **Key Vault**, **Application Insights**
-- **DevOps**: **GitHub Actions CI/CD**, **Bicep IaC**, **Docker**, **97% test coverage**
+- **Backend**: C#/.NET 8, ASP.NET Core Web API, **Clean Architecture**, **Dependency Injection**, **EF Core**, **SQL Server**
+- **Frontend**: React 18 + Hooks/Context, **Chart.js/Recharts**, **File Uploads**, **Responsive Dashboard**
+- **Auth**: **JWT Role-Based** (Customers/Agents/Admins)
+- **Database**: SQL Server (EF Core Migrations, LINQ, Views)
+- **Logging/Testing**: **Serilog**, **xUnit** (containerized, modular)
+- **Cloud/DevOps**: **Render** (Backend), **Vercel/Netlify** (Frontend), **GitHub Actions CI/CD**, **Docker**, **HTTPS**
+- **Diagrams**: ERD + Data Flow (Lucidchart)
+
+**Key Features**:
+- CRUD for policies (Life/Auto/Health/Property)
+- Underwriting engine + Claims workflow
+- Mock payments (Stripe-ready) + Notifications
+- Fraud detection rules + Background jobs
+- 100% Azure-compatible (modular, containerized)
 
 ---
-
 ## 🛠️ **Tech Stack**
-
 ```text
-C# (.NET 8) • ASP.NET Core • EF Core • MediatR • SignalR
-React 18 • TypeScript • React Query • Tailwind • Vite
-Azure (App Service, Static Web Apps, Functions, Cosmos DB, SignalR, Key Vault)
-GitHub Actions • Docker • Bicep • xUnit • Jest • TDD
+C# (.NET 8) • ASP.NET Core Web API • Entity Framework Core • JWT • Clean Architecture
+React (Hooks, Context) • JavaScript (ES6+) • TypeScript • Chart.js / Recharts
+SQL Server (Migrations, LINQ, Views) • SQL • NoSQL (Future-Ready)
+Git / GitHub • Docker • VS Code • xUnit • Serilog • Postman
+Render • Vercel / Netlify • GitHub Actions CI/CD • HTTPS
