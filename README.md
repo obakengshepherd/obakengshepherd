@@ -8,13 +8,13 @@ Pretoria, South Africa · Open to Junior Developer Roles
 ## 🚀 **InsureClaim – Full-Stack Insurance SaaS (Personal Project)**
 > A **modern, modular insurance management system** built from scratch as a **Software-as-a-Service (SaaS)** platform.  
 > Runs 100 % locally with full-stack functionality: authentication, claims processing, policy management, and analytics.  
-> Designed using **Clean Architecture**, **Dependency Injection**, and **Entity Framework Core** — production-ready and Azure-compatible.
+> Designed using **Clean Architecture**, **Dependency Injection**, and **Entity Framework Core** production-ready.
 
 ---
 
 ### 🧱 **Project Overview**
 
-**Goal:** Deliver a professional, role-based insurance platform capable of handling customers, policies, claims, and reports, all powered by a secure backend and an interactive frontend.
+**Goal:** I was aiming to deliver a professional, role-based insurance platform capable of handling customers, policies, claims, and reports, all powered by a secure backend and an interactive frontend.
 
 | Module | Description |
 |---------|--------------|
