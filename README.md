@@ -36,7 +36,7 @@ cd backend/InsureClaim.API
 dotnet ef database update
 dotnet run
 ```
-Runs at → https://localhost:7016
+Runs at → https://localhost:5278
 
 #### 💻 **Frontend (React + Vite + Tailwind)**
 ```bash
