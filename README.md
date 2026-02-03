@@ -20,7 +20,7 @@ I design and build **high-impact business systems** at the intersection of:
 - 🤖 AI-Powered Automation  
 - ⚙️ Backend Architecture & APIs  
 
-I don’t just write code — I build **systems that move money, reduce risk, and create leverage**.
+I don’t just write code, I build **systems that move money, reduce risk, and create leverage**.
 
 ---
 
@@ -75,7 +75,7 @@ I don’t just write code — I build **systems that move money, reduce risk, an
 
 ## 📬 Let’s Build Something Serious
 
-If you're working on a **real business problem** — not just a side project — I’d love to collaborate.
+If you're working on a **real business problem**, not just a side project, I’d love to collaborate.
 
 📩 Reach me via LinkedIn or my portfolio website.
 
