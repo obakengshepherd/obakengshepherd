@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Obakeng Tsaagane</h1>
 <h3 align="center">Systems Engineer • Fintech Architect • Data & AI Platform Builder</h3>
-<h4>📞 067 630 8354 · 📧 obakengtsaagane@gmail.com </h4>
+<h4 align="center">📞 067 630 8354 · 📧 obakengtsaagane@gmail.com </h4>
 
 
 <p align="center">
