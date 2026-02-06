@@ -2,7 +2,6 @@
 <h3 align="center">Systems Engineer • Fintech Architect • Data & AI Platform Builder</h3>
 <h4 align="center">📞 067 630 8354 · 📧 obakengtsaagane@gmail.com </h4>
 
-
 <p align="center">
   <a href="https://obakengshepherd.netlify.app">🌐 Portfolio</a> •
   <a href="www.linkedin.com/in/obakeng-tsaagane-307544244">💼 LinkedIn</a> •
@@ -46,30 +45,30 @@ I don’t just write code, I build **systems that move money, reduce risk, and c
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**
-- C#, .NET, Python, TypeScript, JavaScript
-- Next.js, Node.js
+### 💻 Languages & Frameworks
+- 🟦 C# • 🧩 .NET • 🐍 Python • 🟨 JavaScript • 🔷 TypeScript  
+- ⚛️ Next.js • 🌐 Node.js  
 
-**Databases**
-- SQL Server, PostgreSQL, MySQL
-- Data Modeling, Optimization, Warehousing
+### 🗄 Databases
+- 🟫 SQL Server • 🐘 PostgreSQL • 🐬 MySQL  
+- 📐 Data Modeling • ⚡ Query Optimization • 🏗 Data Warehousing  
 
-**Cloud & DevOps**
-- Azure, Docker, GitHub Actions
+### ☁️ Cloud & DevOps
+- ☁️ Azure • 🐳 Docker • ⚙️ GitHub Actions  
 
-**Data & Analytics**
-- Power BI, ETL Pipelines, Reporting Systems
+### 📊 Data & Analytics
+- 📈 Power BI • 🔄 ETL Pipelines • 🧠 Reporting Systems  
 
-**Security & Compliance**
-- OAuth2, JWT, RBAC, Audit Logging, Secure APIs
+### 🔐 Security & Compliance
+- 🔑 OAuth2 • 🪪 JWT • 🛡 RBAC • 📝 Audit Logging • 🔒 Secure APIs  
 
 ---
 
 ## 🎯 Current Focus
 
-- Building enterprise-grade fintech and data platforms
-- Scaling AI-driven automation systems
-- Positioning as a high-leverage backend systems consultant
+- Building enterprise-grade fintech and data platforms  
+- Scaling AI-driven automation systems  
+- Positioning as a high-leverage backend systems consultant  
 
 ---
 
@@ -78,8 +77,5 @@ I don’t just write code, I build **systems that move money, reduce risk, and c
 If you're working on a **real business problem**, not just a side project, I’d love to collaborate.
 
 📩 Reach me via LinkedIn or my portfolio website.
-
-
-
 
 📧 obakengtsaagane@gmail.com
