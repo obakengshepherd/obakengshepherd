@@ -19,7 +19,7 @@ I design and build **high-impact business systems** at the intersection of:
 - 🤖 AI-Powered Automation  
 - ⚙️ Backend Architecture & APIs  
 
-I don’t just write code, I build **systems that move money, reduce risk, and create leverage**.
+I don’t just write code, I build **systems that move data, reduce risk, and create leverage**.
 
 ---
 
@@ -54,7 +54,7 @@ I don’t just write code, I build **systems that move money, reduce risk, and c
 - 📐 Data Modeling • ⚡ Query Optimization • 🏗 Data Warehousing  
 
 ### ☁️ Cloud & DevOps
-- ☁️ Azure • 🐳 Docker • ⚙️ GitHub Actions  
+- 🐳 Docker • ⚙️ GitHub Actions  
 
 ### 📊 Data & Analytics
 - 📈 Power BI • 🔄 ETL Pipelines • 🧠 Reporting Systems  
@@ -68,7 +68,7 @@ I don’t just write code, I build **systems that move money, reduce risk, and c
 
 - Building enterprise-grade fintech and data platforms  
 - Scaling AI-driven automation systems  
-- Positioning as a high-leverage backend systems consultant  
+- Positioning myself as a high-leverage backend systems consultant  
 
 ---
 
